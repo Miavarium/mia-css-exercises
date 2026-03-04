@@ -1,10 +1,10 @@
 /* Add CSS Styling */
 p {
     background-color: #e97e90;
-    font-family: "Verdana", "DejaVu Sans", sans-serif
+    font-family: Verdana, "DejaVu Sans", sans-serif
 }
 
-.p-but-cooler {
+.font-size {
     font-size: 24px;
 }
 
@@ -16,6 +16,5 @@ p {
 
 #green-element {
     background-color: #b4ff5f;
-    font-size: 24px;
     font-weight: bold;
 }
