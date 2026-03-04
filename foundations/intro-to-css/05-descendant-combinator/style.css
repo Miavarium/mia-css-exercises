@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+
+/* Below are the two ways of doing it using type and class selectors */
+
+div p {
+    background-color: #f7e76e;
+    color: #d40d0d;
+    text-align: center;
+}
+
+.container .text {
+    background-color: #f7e76e;
+    color: #d40d0d;
+    text-align: center;
+}
