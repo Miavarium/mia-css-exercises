@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+
+.shared {
+    font-size: 28px;
+    font-family: Helvetica, "Times new Roman", sans-serif;
+}
+
+.first {
+    background-color: rgb(15, 15, 15);
+    color: rgb(245, 234, 212)
+}
+
+.second {
+    background-color: rgb(248, 232, 50);
+}
