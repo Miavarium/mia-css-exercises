@@ -10,7 +10,6 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
-  text-align: center;
   margin: 20px 0px 40px 0px;
 }
 
@@ -22,7 +21,7 @@ img {
 }
 
 
-div .plant {
+.plant {
   display: flex;
   flex-direction: column;
   justify-content: baseline;
