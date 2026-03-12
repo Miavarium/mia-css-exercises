@@ -1,4 +1,4 @@
-# Mia-CSS-Odin CSS Exercises
+# Mia-CSS-Odin
 
 This is my fork for the exercises from [css-exercies](github.com/TheOdinProject/css-exercises) ( ˶ˆᗜˆ˵ )
 
